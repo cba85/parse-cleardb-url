@@ -1,6 +1,6 @@
 # Clear DB Parse Url
 
-A simple PHP script to parse `CLEARDB_DATABASE_URL` environment var for ClearDB MySQL on Heroku.
+A simple PHP script to parse `CLEARDB_DATABASE_URL` environment var for ClearDB MySQL add-on on Heroku.
 
 ## Usage
 
